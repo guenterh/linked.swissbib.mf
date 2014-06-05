@@ -10,7 +10,7 @@ default in = FLUX_DIR + "bib-data.pica.gz";
 // The output file name is specified in the same way
 // as the input file name so that the name of the
 // output file can be changed on the command line:
-default out = FLUX_DIR +" bib-data.foma";
+default out = FLUX_DIR +"bib-data.foma";
 
 in
 |open-file
