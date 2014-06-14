@@ -11,5 +11,5 @@ in
 |open-file
 |as-lines
 |decode-pica
-|encode-formeta(style="multiline")
+|encode-formeta(style="verbose")
 |write("stdout");
