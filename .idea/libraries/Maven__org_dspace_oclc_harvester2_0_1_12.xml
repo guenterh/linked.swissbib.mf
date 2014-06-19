@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.dspace:oclc-harvester2:0.1.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dspace/oclc-harvester2/0.1.12/oclc-harvester2-0.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dspace/oclc-harvester2/0.1.12/oclc-harvester2-0.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dspace/oclc-harvester2/0.1.12/oclc-harvester2-0.1.12-sources.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/oclc.oai.harvester/test/harvester2-0.1.12/src" />
+      <root url="file://$PROJECT_DIR$/../../../../tools/java.tools/oai_harvester_oclc/harvester/src" />
+    </SOURCES>
+  </library>
+</component>

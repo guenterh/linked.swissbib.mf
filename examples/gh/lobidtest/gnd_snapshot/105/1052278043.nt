@@ -1,0 +1,15 @@
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#variantName> "Gefrorene Tr\u00E4nen" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#opusNumericDesignationOfMusicalWork> "op. 89,3" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#gndIdentifier> "1052278043" .
+<http://d-nb.info/gnd/1052278043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Work> .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#gndSubjectCategory> <http://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p> .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#variantNameForTheWork> "Gefrorene Tr\u00E4nen" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#accordingWork> <http://d-nb.info/gnd/300142420> .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#formOfWorkAndExpression> <http://d-nb.info/gnd/4035669-3> .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#preferredNameForTheWork> "Winterreise / Gefrorne Tr\u00E4nen" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#instrument> <http://d-nb.info/gnd/4030982-4> .
+<http://d-nb.info/gnd/1052278043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#MusicalWork> .
+<http://d-nb.info/gnd/1052278043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#AuthorityResource> .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#thematicIndexNumericDesignationOfMusicalWork> "D 911/3" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#preferredName> "Winterreise / Gefrorne Tr\u00E4nen" .
+<http://d-nb.info/gnd/1052278043> <http://d-nb.info/standards/elementset/gnd#mediumOfPerformance> <http://d-nb.info/gnd/4030982-4> .

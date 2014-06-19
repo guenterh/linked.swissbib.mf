@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?><rdf:RDF xmlns:rda="http://rdvocab.info/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:lib="http://purl.org/library/" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:umbel="http://umbel.org/umbel#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description rdf:about="http://d-nb.info/gnd/1052278035">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#CorporateBody"></rdf:type>
+		<gndo:gndIdentifier>1052278035</gndo:gndIdentifier>
+		<gndo:founder rdf:resource="http://d-nb.info/gnd/11907270X"></gndo:founder>
+		<gndo:preferredNameForTheCorporateBody>Reindeer Werk</gndo:preferredNameForTheCorporateBody>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#ZZ"></gndo:geographicAreaCode>
+		<gndo:homepage rdf:resource="http://regiowiki.hna.de/Reindeer_Werk"></gndo:homepage>
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">International tätige Künstler-Gruppe; u.a. Teilnahme an der documenta 6 teilgenommen hat</gndo:biographicalOrHistoricalInformation>
+		<gndo:dateOfEstablishment>1973</gndo:dateOfEstablishment>
+		<gndo:dateOfTermination>1981</gndo:dateOfTermination>
+	</rdf:Description></rdf:RDF>

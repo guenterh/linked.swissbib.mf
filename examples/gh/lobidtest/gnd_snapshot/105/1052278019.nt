@@ -1,0 +1,26 @@
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantName> "Schulze, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#professionOrOccupation> <http://d-nb.info/gnd/4019065-1> .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#gndIdentifier> "1052278019" .
+<http://d-nb.info/gnd/1052278019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson> .
+<http://d-nb.info/gnd/1052278019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#AuthorityResource> .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantNameForThePerson> "Schultzen, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#preferredNameEntityForThePerson> _:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1d .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#gender> <http://d-nb.info/standards/vocab/gnd/Gender#male> .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#publication> "Gr\u00FCndlich perspectivische Vorstellung, des von Ihro HochGr\u00E4fflichen Gnaden Philipp Reinhard Graffen zu Hanau, im Anfang dieses Seculi pr\u00E4chtig exstruirten Palatii und darbey liegenden LustGartens PhilippsRuh genant bey Kesselstatt am Mayn. - 1705" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantNameEntityForThePerson> _:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1f .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantName> "Schultzen, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson> "Schultze, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Person> .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#preferredName> "Schultze, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantNameEntityForThePerson> _:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1e .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#variantNameForThePerson> "Schulze, Christoph" .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#associatedDate> "ca. 1. H. 18. Jh." .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#geographicAreaCode> <http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE> .
+<http://d-nb.info/gnd/1052278019> <http://d-nb.info/standards/elementset/gnd#periodOfActivity> "ca. 1. H. 18. Jh." .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1d <http://d-nb.info/standards/elementset/gnd#surname> "Schultze" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1d <http://d-nb.info/standards/elementset/gnd#forename> "Christoph" .
+<http://d-nb.info/gnd/4019065-1> <http://d-nb.info/standards/elementset/gnd#preferredNameForTheSubjectHeading> "G\u00E4rtner" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1e <http://d-nb.info/standards/elementset/gnd#surname> "Schulze" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1e <http://d-nb.info/standards/elementset/gnd#forename> "Christoph" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1f <http://d-nb.info/standards/elementset/gnd#surname> "Schultzen" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d1f <http://d-nb.info/standards/elementset/gnd#forename> "Christoph" .

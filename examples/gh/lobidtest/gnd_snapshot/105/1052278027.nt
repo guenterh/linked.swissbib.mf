@@ -1,0 +1,9 @@
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d20 <http://d-nb.info/standards/elementset/gnd#surname> "Preu\u00DFer" .
+_:BX2D17bbf8a8X3A146adf2c552X3AX2D7d20 <http://d-nb.info/standards/elementset/gnd#forename> "Laura" .
+<http://d-nb.info/gnd/1052278027> <http://d-nb.info/standards/elementset/gnd#preferredName> "Preu\u00DFer, Laura" .
+<http://d-nb.info/gnd/1052278027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#AuthorityResource> .
+<http://d-nb.info/gnd/1052278027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Person> .
+<http://d-nb.info/gnd/1052278027> <http://d-nb.info/standards/elementset/gnd#preferredNameEntityForThePerson> _:BX2D17bbf8a8X3A146adf2c552X3AX2D7d20 .
+<http://d-nb.info/gnd/1052278027> <http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson> "Preu\u00DFer, Laura" .
+<http://d-nb.info/gnd/1052278027> <http://d-nb.info/standards/elementset/gnd#gndIdentifier> "1052278027" .
+<http://d-nb.info/gnd/1052278027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#UndifferentiatedPerson> .

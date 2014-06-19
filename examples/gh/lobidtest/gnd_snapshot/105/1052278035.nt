@@ -1,0 +1,12 @@
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#geographicAreaCode> <http://d-nb.info/standards/vocab/gnd/geographic-area-code#ZZ> .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#dateOfEstablishment> "1973" .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#associatedDate> "1973" .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#biographicalOrHistoricalInformation> "International t\u00E4tige K\u00FCnstler-Gruppe; u.a. Teilnahme an der documenta 6 teilgenommen hat"@de .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#gndIdentifier> "1052278035" .
+<http://d-nb.info/gnd/1052278035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#AuthorityResource> .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#dateOfTermination> "1981" .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#preferredNameForTheCorporateBody> "Reindeer Werk" .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#preferredName> "Reindeer Werk" .
+<http://d-nb.info/gnd/1052278035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#CorporateBody> .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#homepage> <http://regiowiki.hna.de/Reindeer_Werk> .
+<http://d-nb.info/gnd/1052278035> <http://d-nb.info/standards/elementset/gnd#founder> <http://d-nb.info/gnd/11907270X> .

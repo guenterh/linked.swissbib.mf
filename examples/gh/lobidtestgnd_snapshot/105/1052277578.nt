@@ -1,0 +1,25 @@
+_:B199e8b55X3A146ade8151dX3AX2D7d1e <http://d-nb.info/standards/elementset/gnd#surname> "Raf\u012B\u02BF\u012B Ma\u01E7\u016Bmard" .
+_:B199e8b55X3A146ade8151dX3AX2D7d1e <http://d-nb.info/standards/elementset/gnd#forename> "\u1E24am\u012Bd" .
+_:B199e8b55X3A146ade8151dX3AX2D7d20 <http://d-nb.info/standards/elementset/gnd#surname> "Raf\u012B\u02BF\u012B" .
+_:B199e8b55X3A146ade8151dX3AX2D7d20 <http://d-nb.info/standards/elementset/gnd#forename> "\u1E24am\u012Bd" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantNameForThePerson> "Rafie, Hamid" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantName> "Rafie, Hamid" .
+<http://d-nb.info/gnd/1052277578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#AuthorityResource> .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantName> "Raf\u012B\u02BF\u012B, \u1E24am\u012Bd" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#gndIdentifier> "1052277578" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantNameEntityForThePerson> _:B199e8b55X3A146ade8151dX3AX2D7d1f .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#publication> "Z\u012Brs\u0101\u1E2Bth\u0101-i iqti\u1E63\u0101d\u012B dar \u012Ar\u0101n-i qabl wa ba\u02BFd az Inqil\u0101b-i Isl\u0101m\u012B. - 2010" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantNameEntityForThePerson> _:B199e8b55X3A146ade8151dX3AX2D7d20 .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#preferredNameForThePerson> "Raf\u012B\u02BF\u012B Ma\u01E7\u016Bmard, \u1E24am\u012Bd" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#languageCode> <http://id.loc.gov/vocabulary/iso639-2/per> .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#associatedDate> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#gender> <http://d-nb.info/standards/vocab/gnd/Gender#male> .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#preferredNameEntityForThePerson> _:B199e8b55X3A146ade8151dX3AX2D7d1e .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#variantNameForThePerson> "Raf\u012B\u02BF\u012B, \u1E24am\u012Bd" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#geographicAreaCode> <http://d-nb.info/standards/vocab/gnd/geographic-area-code#XB-IR> .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#preferredName> "Raf\u012B\u02BF\u012B Ma\u01E7\u016Bmard, \u1E24am\u012Bd" .
+<http://d-nb.info/gnd/1052277578> <http://d-nb.info/standards/elementset/gnd#dateOfBirth> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://d-nb.info/gnd/1052277578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson> .
+<http://d-nb.info/gnd/1052277578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://d-nb.info/standards/elementset/gnd#Person> .
+_:B199e8b55X3A146ade8151dX3AX2D7d1f <http://d-nb.info/standards/elementset/gnd#surname> "Rafie" .
+_:B199e8b55X3A146ade8151dX3AX2D7d1f <http://d-nb.info/standards/elementset/gnd#forename> "Hamid" .
