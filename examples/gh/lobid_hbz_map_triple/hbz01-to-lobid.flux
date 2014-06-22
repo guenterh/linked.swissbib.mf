@@ -11,11 +11,9 @@ xml-tee| {
         } {
         handle-mabxml |
         morph(files+"morph-hbz01-to-lobid.xml")|
-        stream-tee | {
-                encode-stats(filename="tmp.stats.csv")
-        }{
+        //log-stream("Morphing 1: ") |
                 encode-ntriples |
                 triples-to-rdfmodel(input="N-TRIPLE")|
                 write-rdfmodel(property="http://purl.org/lobid/lv#hbzID",  serialization="N-TRIPLES",startindex="2", endindex="7",target="/tmp/nt/") 
-        }
+
 };

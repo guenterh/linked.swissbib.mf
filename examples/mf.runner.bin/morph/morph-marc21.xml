@@ -6,10 +6,28 @@
 		<combine name="dc:title" value="${title}${othtitleinfo}"
 			flushWith="24510">
 			<data name="title" source="24510.a" />
-			<data name="othtitleinfo" source="24510.b">
-				<compose prefix=" : " />
+			<data name="othtitleinfo" source="24510.h">
+				<compose prefix=" --- " />
 			</data>
 		</combine>
+        <combine name="dc:blabla" value="${eins}kk${zwei}"
+                 flushWith="77508">
+            <data name="eins" source="77508.i" />
+            <data name="zwei" source="77508.a">
+                <compose prefix=" : " />
+            </data>
+        </combine>
 	</rules>
+
+    <rules>
+        <combine name="dc:title" value="${title}${othtitleinfo}"
+                 flushWith="24510">
+            <data name="title" source="24510.a" />
+            <data name="othtitleinfo" source="24510.h">
+                <compose prefix=" --- " />
+            </data>
+        </combine>
+    </rules>
+
 
 </metamorph>
