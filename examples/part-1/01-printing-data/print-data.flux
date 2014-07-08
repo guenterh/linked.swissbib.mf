@@ -12,4 +12,5 @@ in
 |as-lines
 |decode-pica
 |encode-formeta(style="verbose")
+//|encode-json
 |write("stdout");
